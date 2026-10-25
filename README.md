@@ -1,3 +1,4 @@
+<img width="619" height="214" alt="onlyfridge" src="https://github.com/user-attachments/assets/793ad865-f103-4eb5-bc6b-847c47fbed16" />
 # ONLYFRIDGE CLUB by [DevFridge](https://github.com/mikeminer/devfridge) — The Official Street Guide
 
 > *"Open the fridge. Own the night."*
