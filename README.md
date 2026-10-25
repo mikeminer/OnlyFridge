@@ -1,4 +1,4 @@
-# ONLYFRIDGE CLUB — The Official Street Guide
+# ONLYFRIDGE CLUB by [DevFridge](https://github.com/mikeminer/devfridge) — The Official Street Guide
 
 > *"Open the fridge. Own the night."*
 
